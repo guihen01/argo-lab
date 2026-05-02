@@ -14,6 +14,8 @@ This project demonstrates a **GitOps workflow** using:
 
 ## 📊 Argo CD Dashboard
 
+![Argo CD Dashboard](screenshots/gitops-lab-argocd.png)
+
 ![Argo CD Dashboard](screenshots/argo-dashboard.png)
 
 ## 🧠 GitOps Concept
