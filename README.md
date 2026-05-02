@@ -16,7 +16,6 @@ This project demonstrates a **GitOps workflow** using:
 
 ![Argo CD Dashboard](screenshots/gitops-lab-argocd.png)
 
-![Argo CD Dashboard](screenshots/argo-dashboard.png)
 
 ## 🧠 GitOps Concept
 
@@ -41,6 +40,10 @@ Local Machine → GitHub Repo → Argo CD → Kubernetes Cluster
 ## 🔍 Verification
 
 ![Kubernetes Pods](screenshots/get-argo-pods.png)
+
+--
+
+![Argo CD Dashboard](screenshots/argo-dashboard.png)
 
 --
 
